@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+}
+.regcontainer{
+	display: flexbox;
+	align-content: center;
+	align-items: center;
+	color: grey;
+	text-align: center;
+
+}
